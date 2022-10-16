@@ -1,27 +1,26 @@
-[![MasterHead](https://drive.google.com/file/d/19XkuruklFszEEby25eBCIxw3b31mE4D4/view?usp=sharing)]
-
+![MasterHead](https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif)
 
 <h1 align="center">Hi 👋, I'm Pranav Tripathi</h1>
-<h3 align="center">Developer who keeps things Simple & Stupid.</h3>
-<img align="right" alt="Coding" width="400" height = "335" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<h3 align="center">A developer who keeps things 𝑺𝒊𝒎𝒑𝒍𝒆 & 𝑺𝒕𝒖𝒑𝒊𝒅</h3>
+<!--<img align="right" alt="Coding" width="400" height = "335" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> -->
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codiac1&label=Profile%20views&color=0e75b6&style=flat" alt="codiac1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codiac1" alt="codiac1" /></a> </p>
+- 🔭 I’m currently working with **: JavaScript & Python**
 
-<p align="left"> <a href="https://twitter.com/_manushya_" target="blank"><img src="https://img.shields.io/twitter/follow/_manushya_?logo=twitter&style=for-the-badge" alt="_manushya_" /></a> </p>
+- 🌱 I’m currently learning **: JavaScript & System Design**
 
-- 🔭 I’m currently working on **JavaScript & Python**
+- 💬 Ask me about **: Python , Data Structures , Algorithms , OOPS & SQL**
 
-- 🌱 I’m currently learning **JavaScript & Ststem Design**
+- 📫 Reach out to me **: pranavtripathi79@gmail.com**
 
-- 💬 Ask me about **Python , Data Structures , Algorithms , OOPS & Sql**
+- 📄 More about my experiences : <a href = "https://drive.google.com/file/d/1sgAAIKnkzdNtv-ypimota8DoXsqpZsK4/view?usp=sharing"> Resume </a>
 
-- 📄 More about my experiences : Resume <a href="https://twitter.com/_manushya_" target="blank">
+- 📝 I write articles here : <a href='https://medium.com/@pranavtripathi79'>Blog</a>
 
-- ⚡ Fun fact **I write code as well as poetry, Isn't it creative ?**
+- ⚡ Fun fact **: I write code as well as poetry, Isn't it creative ?**
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
