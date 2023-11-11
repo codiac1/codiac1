@@ -17,7 +17,7 @@
 
 - 📫 Reach out to me **: pranavtripathi79@gmail.com**
 
-- 📄 More about my experiences : <a href = "[https://drive.google.com/file/d/1bU2Kbo0OdORCIJGtXqdAqprarlyiLx1x/view?usp=drive_link](https://drive.google.com/file/d/1bU2Kbo0OdORCIJGtXqdAqprarlyiLx1x/view?usp=sharing)"> Resume </a>
+- 📄 More about my experiences : <a href = "https://drive.google.com/file/d/1bU2Kbo0OdORCIJGtXqdAqprarlyiLx1x/view?usp=sharing"> Resume </a>
 
 - 📝 I write articles here : <a href='https://medium.com/@pranavtripathi79'>Blog</a>
 
