@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working with **: React.js & Python**
 
-- 🌱 I’m currently learning **: JavaScript & System Design**
+- 🌱 I’m currently learning **: DevOps System Design**
 
 - 💬 Ask me about **: Python, Data Structures, Algorithms, OOPS & SQL**
 
