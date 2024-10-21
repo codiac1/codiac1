@@ -5,19 +5,18 @@
 <!--<img align="right" alt="Coding" width="400" height = "335" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> -->
 
 
-<p align="left"> <a href="https://twitter.com/im__perfect_" target="blank"><img src="https://img.shields.io/twitter/follow/_manushya_?logo=twitter&style=for-the-badge" alt="_manushya_" /> </p>
 <p align="left"> </a><img src="https://komarev.com/ghpvc/?username=codiac1&label=Profile%20views&color=0e75b6&style=flat" alt="codiac1" /> </p>
 <img align="right" alt="coding" width="390" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working with **: React.js & Python**
+- 🔭 I’m currently working with **: React.js, Angular and .NET Core**
 
-- 🌱 I’m currently learning **: DevOps System Design**
+- 🌱 I’m currently learning **: DevOps & System Design**
 
 - 💬 Ask me about **: Python, Data Structures, Algorithms, OOPS & SQL**
 
 - 📫 Reach out to me **: pranavtripathi79@gmail.com**
 
-- 📄 More about my experiences : <a href = "https://drive.google.com/file/d/1lc7-ObuC5Qmv4FdhL-IzXlxJcG6qxJfm/view?usp=sharing"> Resume </a>
+- 📄 More about my experiences : <a href = "[https://drive.google.com/file/d/1lc7-ObuC5Qmv4FdhL-IzXlxJcG6qxJfm/view?usp=sharing](https://drive.google.com/file/d/1jtfmItz6yt7sANcsyZVu7hnGBaAOheSw/view?usp=sharing)"> Resume </a>
 
 - 📝 I write articles here : <a href='https://medium.com/@pranavtripathi79'>Blog</a>
 
@@ -28,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/im__perfect_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im__perfect_" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/pranav-tripathi2510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-tripathi2510" height="30" width="40" /></a>
 <a href="https://instagram.com/_imroz._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_imroz._" height="30" width="40" /></a>
 <a href="https://medium.com/@pranavtripathi79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pranavtripathi79" height="30" width="40" /></a>
@@ -43,9 +42,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codiac1&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=codiac1&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codiac1&theme=onedark&hide_border=false)<br/>
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=im__perfect_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
